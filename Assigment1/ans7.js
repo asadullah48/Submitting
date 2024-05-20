@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log(3 + 5); // Addition
 console.log(16 - 8); // Subtraction
 console.log(4 * 2); // Multiplication

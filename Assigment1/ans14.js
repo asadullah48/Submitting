@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //Question 14: 
 //Guest List: If you could invite anyone, living or deceased, to dinner, 
 //who would you invite? 

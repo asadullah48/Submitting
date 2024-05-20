@@ -3,7 +3,6 @@ let text: string = "ahmed";
 console .log(text.toLowerCase());
 console .log(text.toUpperCase());
 console .log(text.charAt(0) .toUpperCase() + text .slice(1));
-console.log(text.charAt(0) .toUpperCase() + text .slice(1)); // for practice.
 let word: string = "hamza";
 console.log(word.toLowerCase());
 console.log(word. toUpperCase());

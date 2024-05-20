@@ -1,7 +1,6 @@
 "use strict";
 //Question 16: 
 //More Guests: You've found a bigger dinner table, so there's room for more guests.
-Object.defineProperty(exports, "__esModule", { value: true });
 let guests = ["Usman", "Mansoor", "Mohsin", "Sultan", "Ifraheem", "Zakariyah", "Asadullah"];
 console.log("Alhamdurillah, Great news! I found a bigger dinner table!");
 // Adding more guests

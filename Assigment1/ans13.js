@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //our Own Array: Think of your favorite mode of transportation, 
 //such as a motorcycle or a car, 
 //and make a list that stores several examples. 
