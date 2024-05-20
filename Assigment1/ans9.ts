@@ -1,5 +1,5 @@
-let favoriteNumber: number = 7; 
-console.log(`My favorite number is ${favoriteNumber}.`); 
+let choiceNumber: number = 7; 
+console.log(`My favorite number is ${choiceNumber}.`); 
 
 //Favorite Number: Store your favorite number in a variable. 
 //Then, using that variable, 

@@ -4,11 +4,11 @@
 //Make sure you use each character combination, "\t" and "\n", at least once. ...
 //Print the name once, so the whitespace around the name is displayed. ...
 //Then print the name after striping the white spaces.
-let text = "\t\n Asadullah Shafique \t\n";
+let texts = "\t\n Asadullah Shafique \t\n";
 // This saves the name with whitespace
-console.log(text);
+console.log(texts);
 // Shows the name with whitespace
-console.log(text.trim());
+console.log(texts.trim());
 // Shows the name without whitespace.
 let sentence = "\t\n Asadullah Shafique is onsite student @ governer house,learning coding these days  \t\n";
 console.log(sentence);
